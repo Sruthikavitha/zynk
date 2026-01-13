@@ -1,0 +1,23 @@
+# Flutter / Dart
+.dart_tool/
+.packages
+.pub-cache/
+build/
+
+# Android
+android/.gradle/
+android/local.properties
+
+# iOS
+ios/Pods/
+
+# Node / Frontend
+node_modules/
+dist/
+
+# IDE
+.idea/
+.vscode/
+
+# Env
+.env
